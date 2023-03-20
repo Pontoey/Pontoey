@@ -1,4 +1,8 @@
 # 💫 About Me:
+<div align="center">
+<img src="https://www.viethpham.com/hello-world/featured-image.png" align="center" style="width: 60%" />
+</div>
+
 # <div align="center">👦 I'm Ponkrit,<br> Beginner Developer of Coding 👨‍💻 🚀</div>
 
 

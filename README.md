@@ -1,5 +1,4 @@
 # 💫 About Me:
-    <div align="center">
 <img src="[https://rishavanand.github.io/static/images/greetings.gif](https://www.mycplus.com/ezoimgfmt/cdn.mycplus.com/mycplus/wp-content/uploads/2017/12/hello_world-1280x640.png?ezimgfmt=rs%3Adevice%2Frscb1-1)" align="center" style="width: 100%" />
 </div>
 
